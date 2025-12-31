@@ -1,4 +1,4 @@
-Structured-Information Field Dynamics (SIFD)
+## Structured-Information Field Dynamics (SIFD) ##
 
 A minimal, experimentally testable extension of quantum field theory coupling scalar fields to structured information operators
 
