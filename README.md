@@ -21,7 +21,7 @@ SIFD proposes a causal hierarchy beginning with awareness and progressing throug
 
 The central claim is:
 
-```
+```math
 \boxed{
 \text{Reality}
 =
