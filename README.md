@@ -22,7 +22,9 @@ SIFD proposes a causal hierarchy beginning with awareness and progressing throug
 The central claim is:
 
 $$
-\Omega^* = \mathcal{F}[\Omega^*]
+\Omega^*
+=
+\mathcal F[\Omega^*]
 $$
 
 The purpose of SIFD is not to append consciousness to existing physics, nor to force existing physical theories to emerge exactly as presently formulated.
